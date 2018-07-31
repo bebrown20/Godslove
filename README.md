@@ -31,20 +31,7 @@ Tutorial
 29
 30
 31
-32
-# include <iostream>
-# include <string>
-using namespace std;
-int main()
-{
-  int a,b,c;
-  cout<< "Enter two nos :"<<endl;
-  cout<< "Enter first no. : ";
-  cin>>a;
-  cout<< "Enter sec. no. : ";
-  cin>>b;
-  c=a*b;
-  while(a!=b)
+
     {
       if(a>b)
         a=a-b;
