@@ -64,3 +64,4 @@ Enter sec. no. : 9
 HCF = 1
 LCM = 45
 */
+back that a## up like it's 1999
