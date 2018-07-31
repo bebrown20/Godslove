@@ -65,3 +65,5 @@ HCF = 1
 LCM = 45
 */
 back that a## up like it's 1999
+
+help me please
